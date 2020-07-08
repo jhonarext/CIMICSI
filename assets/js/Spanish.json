@@ -1,0 +1,26 @@
+
+
+{
+	"decimal":        "",
+	"sProcessing":     "Procesando...",
+    "sEmptyTable":     "Ningún dato disponible en esta tabla",
+    "info":           "Mostrando <span class='badge badge-secondary'>_START_</span> al <span class='badge badge-secondary'>_END_</span> de un total de <span class='badge badge-primary'>_TOTAL_</span> registro",
+    "infoEmpty":      "Mostrando 0 a 0 de 0 registros",
+    "sInfoFiltered":   "<div style='display:block;'><span class='badge badge-light'>(filtrado de un total de _MAX_ registros)</span><div>",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "Mostrar _MENU_ registros",
+    "loadingRecords": "Cargando...",
+    "search":         "<i class='fa fa-search'></i>&nbsp;Buscar:",
+    "zeroRecords":    "No se encontraron coincidencias",
+    "oPaginate": {
+		"sFirst":    "Primero",
+		"sLast":     "Último",
+		"sNext":     "Siguiente",
+		"sPrevious": "Anterior"
+	},
+	"oAria": {
+		"sSortAscending":  ": Activar para ordenar la columna de manera ascendente",
+		"sSortDescending": ": Activar para ordenar la columna de manera descendente"
+	}
+}
